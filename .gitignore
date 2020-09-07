@@ -2,4 +2,5 @@
 .AppleDouble
 .ALSOverride
 /node_modules/
-app/css/
+/app/css/
+/app/.idea/
