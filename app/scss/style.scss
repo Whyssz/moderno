@@ -50,3 +50,54 @@
     font-size: 14px;
   }
 }
+.search{
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  min-height: 533px;
+}
+.search__inner{
+  text-align: center;
+  color: #fff;
+  padding: 145px 0 100px;
+  &-title{
+    line-height: 60px;
+    font-size: 48px;
+    font-weight: 700;
+    margin-bottom: 25px;
+  }
+  &-text{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    margin-bottom: 55px;
+  }
+ &-form{
+  max-width: 670px;
+  margin: 0 auto;
+  position: relative;
+ }
+  input{
+    display: block;
+    width: 100%;
+    font-size: 14px;
+    box-shadow: 0 1px 10px 0 rgba(124, 178, 64, 0.75);
+    border-radius: 4px;
+    height: 56px;
+    border: none;
+    outline: none;
+    padding-left: 25px;
+    padding-right: 60px;
+    &::placeholder{
+      color: #90a4ae;
+      font-weight: 500;
+    }
+  }
+  button{
+    position: absolute;
+    background-color: transparent;
+    top: 15px;
+    right: 16px;
+    border: none;
+  }
+}
