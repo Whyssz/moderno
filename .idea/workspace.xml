@@ -26,10 +26,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="76680715-e357-4906-b40e-32877ee2f9ab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/css/style.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/css/style.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/scss/_global.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/scss/_global.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/scss/_vars.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/scss/_vars.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/scss/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/scss/style.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
     </list>
@@ -74,7 +76,8 @@
       <workItem from="1599497552899" duration="29000" />
       <workItem from="1599497592083" duration="1078000" />
       <workItem from="1599498719486" duration="92000" />
-      <workItem from="1599498824567" duration="2821000" />
+      <workItem from="1599498824567" duration="2998000" />
+      <workItem from="1599564732599" duration="5808000" />
     </task>
     <servers />
   </component>
@@ -108,15 +111,20 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="660" y="387" key="#SCSS_Lint" timestamp="1599500333976">
+    <state x="660" y="387" key="#SCSS_Lint" timestamp="1599565932757">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state x="660" y="387" key="#SCSS_Lint/0.0.1858.1080@0.0.1858.1080" timestamp="1599500333976" />
+    <state x="660" y="387" key="#SCSS_Lint/0.0.1858.1080@0.0.1858.1080" timestamp="1599565932757" />
     <state x="597" y="312" key="EditFileWatcherDialog" timestamp="1599500328060">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
     <state x="597" y="312" key="EditFileWatcherDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1599500328060" />
+    <state x="585" y="250" key="run.anything.popup" timestamp="1599566687182">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="585" y="250" key="run.anything.popup/0.0.1858.1080@0.0.1858.1080" timestamp="1599566687182" />
   </component>
 </project>
