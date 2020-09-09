@@ -299,7 +299,7 @@
       font-size: 24px;
       @include f500;
       color: #fff;
-      margin-bottom: 30px;
+      margin-bottom: 60px;
       transition: all .4s;
     }
     &__text{
@@ -321,9 +321,78 @@
 
       }
     }
-
-
   }
 }
 // end advantages
-// start
+// start author
+.author{
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 750px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  &-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: $green;
+    max-width: 650px;
+    width: 100%;
+    min-height: 215px;
+    &__title{
+      font-size: 30px;
+      line-height: 30px;
+      max-width: 265px;
+      color: #fff;
+      margin-right: 45px;
+      span{
+        @include f700;
+      }
+    }
+    &__link{
+      display: inline-block;
+      cursor: pointer;
+      font-size: 18px;
+        background-color: #fff;
+        padding: 16px 40px;
+      color: $bg;
+    }
+  }
+}
+// end author
+// start tutorial
+.tutorial {
+  margin: 70px 0 120px;
+  &-title {
+    margin-bottom: 55px;
+  }
+  &__inner {
+    display: flex;
+    justify-content: space-between;
+  }
+}
+.tutorial-item{
+  max-width: 370px;
+  width: 100%;
+  &__img{
+    min-height: 270px;
+  }
+  &__title{
+    padding: 30px 10px;
+    cursor: pointer;
+    font-size: 24px;
+    line-height: 60px;
+    @include f700;
+    background-color: $grey;
+    text-align: center;
+  }
+  &__title a{
+    color: $bg;
+  }
+}
+// end tutorial
+// start footer
+
+//end footer
