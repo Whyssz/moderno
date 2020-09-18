@@ -27,13 +27,19 @@
   <component name="ChangeListManager">
     <list default="true" id="76680715-e357-4906-b40e-32877ee2f9ab" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/css/libs.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/css/libs.min.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/css/style.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/css/style.min.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/js/libs.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/js/libs.min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/js/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/new-items.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/new-items.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/page.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/page.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/scss/_global.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/scss/_global.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/scss/_vars.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/scss/_vars.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/scss/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/scss/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +105,10 @@
       <workItem from="1600156564865" duration="18122000" />
       <workItem from="1600177654608" duration="4744000" />
       <workItem from="1600179218153" duration="4820000" />
-      <workItem from="1600241285168" duration="5884000" />
+      <workItem from="1600241285168" duration="29321000" />
+      <workItem from="1600271866584" duration="14953000" />
+      <workItem from="1600351565522" duration="452000" />
+      <workItem from="1600352604544" duration="7054000" />
     </task>
     <servers />
   </component>
@@ -148,14 +157,18 @@
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
     <state x="597" y="312" key="EditFileWatcherDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1599500328060" />
-    <state x="708" y="293" key="FileChooserDialogImpl" timestamp="1599989234817">
+    <state x="708" y="293" key="FileChooserDialogImpl" timestamp="1600352019639">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state x="708" y="293" key="FileChooserDialogImpl/0.0.1858.1080@0.0.1858.1080" timestamp="1599989234817" />
+    <state x="708" y="293" key="FileChooserDialogImpl/0.0.1858.1080@0.0.1858.1080" timestamp="1600352019639" />
     <state x="429" y="183" key="SettingsEditor" timestamp="1599906472974">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
     <state x="429" y="183" key="SettingsEditor/0.0.1858.1080@0.0.1858.1080" timestamp="1599906472974" />
+    <state x="574" y="153" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1600347390089">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="574" y="153" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1858.1080@0.0.1858.1080" timestamp="1600347390089" />
     <state x="737" y="452" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600242269457">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
@@ -168,9 +181,9 @@
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
     <state x="585" y="250" key="run.anything.popup/0.0.1858.1080@0.0.1858.1080" timestamp="1599919226585" />
-    <state x="592" y="235" key="search.everywhere.popup" timestamp="1600243111166">
+    <state x="592" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1600265284251">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state x="592" y="235" key="search.everywhere.popup/0.0.1858.1080@0.0.1858.1080" timestamp="1600243111166" />
+    <state x="592" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1858.1080@0.0.1858.1080" timestamp="1600265284251" />
   </component>
 </project>
