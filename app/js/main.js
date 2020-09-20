@@ -24,6 +24,8 @@ $(function () {
         slidesToScroll: 4
     });
 
+    $('.upload-select__file, .upload-select').styler();
+
     $('.icon-th-list').on('click', function () {
         $('.product__item').addClass('list')
         $('.icon-th-large').removeClass('active')
@@ -54,5 +56,4 @@ $(function () {
     });
 
     var mixer = mixitup('.products__inner-box');
-
 })

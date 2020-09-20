@@ -27,10 +27,14 @@
   <component name="ChangeListManager">
     <list default="true" id="76680715-e357-4906-b40e-32877ee2f9ab" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/css/libs.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/css/libs.min.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/css/style.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/css/style.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/new-items.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/new-items.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/js/libs.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/js/libs.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/js/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/scss/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/scss/style.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/settings.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/settings.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +104,8 @@
       <workItem from="1600271866584" duration="14953000" />
       <workItem from="1600351565522" duration="452000" />
       <workItem from="1600352604544" duration="15391000" />
-      <workItem from="1600497691210" duration="18940000" />
+      <workItem from="1600497691210" duration="21214000" />
+      <workItem from="1600549706131" duration="16061000" />
     </task>
     <servers />
   </component>
@@ -173,10 +178,10 @@
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
     <state x="636" y="237" width="585" height="606" key="find.popup/0.0.1858.1080@0.0.1858.1080" timestamp="1599900341715" />
-    <state x="585" y="250" key="run.anything.popup" timestamp="1599919226585">
+    <state x="585" y="250" key="run.anything.popup" timestamp="1600533474931">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state x="585" y="250" key="run.anything.popup/0.0.1858.1080@0.0.1858.1080" timestamp="1599919226585" />
+    <state x="585" y="250" key="run.anything.popup/0.0.1858.1080@0.0.1858.1080" timestamp="1600533474931" />
     <state x="592" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1600265284251">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
