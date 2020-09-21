@@ -24,7 +24,7 @@ $(function () {
         slidesToScroll: 4
     });
 
-    $('.upload-select__file, .upload-select').styler();
+    $('.upload-select__file, .upload-select, .withdrawals-select').styler();
 
     $('.icon-th-list').on('click', function () {
         $('.product__item').addClass('list')

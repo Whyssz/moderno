@@ -170,72 +170,96 @@
                     <div class="breadcrumbs__inner">
                         <ul class="breadcrumbs__list">
                             <li><a href="#">Home</a></li>
-                            <li><span>Upload Product</span></li>
+                            <li><span>Withdrawals</span></li>
                         </ul>
                     </div>
                 </div>
             </div>
-            <section class="upload page-content">
+            <section class="withdrawals page-content">
                 <div class="container">
-                    <form>
-                        <div class="upload__inner">
-                            <div class="upload__inner-title">Upload Your item</div>
-                            <div class="upload__inner-content">
-                                <div class="upload__line">
-                                    <label>Select Categories <span>*</span></label>
-                                    <select class="upload-select">
-                                        <option>Select</option>
-                                        <option>Select</option>
-                                        <option>Select</option>
-                                    </select>
-                                </div>
-                                <div class="upload__line">
-                                    <label>Product Name <span>*</span></label>
-                                    <input type="text" required placeholder="Enter your product name here ...">
-                                </div>
-                                <div class="upload__line">
-                                    <label>Product Description <span class="span-on">*</span></label>
-                                    <textarea type="text" required placeholder="<h1> Type your text  here </h1/>"></textarea>
-                                </div>
-                                <div class="upload__line">
-                                    <label>Upload Main File <span>*</span></label>
-                                    <input class="upload-select__file" type="file" data-browse="Choose File" data-placeholder="No File Choosen">
-                                </div>
-                                <div class="upload__line">
-                                    <label>Upload Screenshots <span>*</span></label>
-                                    <input class="upload-select__file" type="file" data-browse="Choose File" data-placeholder="No File Choosen">
-                                </div>
-                                <div class="upload__line">
-                                    <label>File Included  <span>*</span></label>
-                                    <select class="upload-select">
-                                        <option>Select File Type </option>
-                                        <option>Select File Type </option>
-                                        <option>Select File Type </option>
-                                    </select>
-                                </div>
-                                <div class="upload__line">
-                                    <label>File Dimensions <span class="span-on">*</span></label>
-                                    <input type="text" required placeholder="Enter the item  dimentionss here ...">
-                                </div>
-                                <div class="upload__line">
-                                    <label>Item Tags <span>*</span></label>
-                                    <input type="text" required placeholder="Enter Tag Here">
-                                </div>
+                    <div class="withdrawals__inner">
+                        <div class="withdrawals__inner-col">
+                            <div class="withdrawals__inner-head">Withdrawals Earnings</div>
+                            <div class="withdrawals__content">
+                                <form>
+                                    <div class="withdrawals__content-line">
+                                        <label>Amount to Withdraw ($2000.00 Maximum) <span>*</span></label>
+                                        <input type="text" placeholder="Enter the amount you want to withdraw..." required>
+                                    </div>
+                                    <div class="withdrawals__content-line">
+                                        <label>Choose your Withdraw Method <span>*</span></label>
+                                        <select class="withdrawals-select" data-placeholder="Select Your Card">
+                                            <option></option>
+                                            <option>Card 1</option>
+                                            <option>Card 2</option>
+                                        </select>
+                                    </div>
+                                    <div class="withdrawals__content-line">
+                                        <label>Your Account Name <span>*</span></label>
+                                        <select class="withdrawals-select" data-placeholder="Select Your Card">
+                                            <option></option>
+                                            <option>Card 1</option>
+                                            <option>Card 2</option>
+                                        </select>
+                                    </div>
+                                    <div class="withdrawals__content-line">
+                                        <label>Confirm Your Password <span>*</span></label>
+                                        <input type="text" placeholder="Select Your Card" required>
+                                    </div>
+                                    <button type="submit">Request Withdrawal</button>
+                                </form>
                             </div>
-                            <div class="upload__inner-title">Set Your Price (US$)</div>
-                            <div class="upload__inner-content">
-                                <div class="upload__line">
-                                    <label>Regular License <span>*</span></label>
-                                    <input type="number"   required placeholder="$00.00">
-                                </div>
-                                <div class="upload__line">
-                                    <label>Extended License <span>*</span></label>
-                                    <input type="number"  required placeholder="$00.00">
-                                </div>
-                            </div>
-                            <button type="submit">submit</button>
                         </div>
-                    </form>
+                        <div class="withdrawals__inner-col">
+                            <div class="withdrawals__inner-head">Withdrawal History</div>
+                            <div class="withdrawals__inner-content">
+                                <div class="withdrawals__content-items">
+                                    <div class="withdrawals__item">
+                                        <div class="withdrawals__item-data">Dec 26th, 2016</div>
+                                        <div class="withdrawals__item-mail">sss@paypal.com</div>
+                                        <div class="withdrawals__item-price">$200</div>
+                                        <div class="withdrawals__item-status">Pending</div>
+                                    </div>
+                                    <div class="withdrawals__item">
+                                        <div class="withdrawals__item-data">Dec 26th, 2016</div>
+                                        <div class="withdrawals__item-mail">Psdboss@paypal.com</div>
+                                        <div class="withdrawals__item-price">$200</div>
+                                        <div class="withdrawals__item-status withdrawals__item-paid">Paid</div>
+                                    </div>
+                                    <div class="withdrawals__item">
+                                        <div class="withdrawals__item-data">Dec 26th, 2016</div>
+                                        <div class="withdrawals__item-mail">Psdboss@paypal.com</div>
+                                        <div class="withdrawals__item-price">$200</div>
+                                        <div class="withdrawals__item-status withdrawals__item-paid">Paid</div>
+                                    </div>
+                                    <div class="withdrawals__item">
+                                        <div class="withdrawals__item-data">Dec 26th, 2016</div>
+                                        <div class="withdrawals__item-mail">Psdbossfdsaf@paypal.com</div>
+                                        <div class="withdrawals__item-price">$200</div>
+                                        <div class="withdrawals__item-status withdrawals__item-paid">Paid</div>
+                                    </div>
+                                    <div class="withdrawals__item">
+                                        <div class="withdrawals__item-data">Dec 26th, 2016</div>
+                                        <div class="withdrawals__item-mail">Psdboss@paypal.com</div>
+                                        <div class="withdrawals__item-price">$200</div>
+                                        <div class="withdrawals__item-status withdrawals__item-paid">Paid</div>
+                                    </div>
+                                    <div class="withdrawals__item">
+                                        <div class="withdrawals__item-data">Dec 26th, 2016</div>
+                                        <div class="withdrawals__item-mail">Psdboss@paypal.com</div>
+                                        <div class="withdrawals__item-price">$200</div>
+                                        <div class="withdrawals__item-status withdrawals__item-paid">Paid</div>
+                                    </div>
+                                    <div class="withdrawals__item">
+                                        <div class="withdrawals__item-data">Dec 26th, 2016</div>
+                                        <div class="withdrawals__item-mail">Psdboss@paypal.com</div>
+                                        <div class="withdrawals__item-price">$200</div>
+                                        <div class="withdrawals__item-status withdrawals__item-paid">Paid</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </section>
         </div>
