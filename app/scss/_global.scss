@@ -6,7 +6,9 @@ html{
 }
 html,
 body {
+  position: relative;
   height: 100%;
+  overflow-x: hidden;
 }
 a {
   display: inline-block;
@@ -47,9 +49,9 @@ body{
   padding: 0 15px;
 }
 .container-fluid{
-  max-width: 100%;
   margin: 0 auto;
   padding: 0 30px;
+  max-width: 1920px;
 }
 @media (max-width: 720px) {
   .container-fluid{
@@ -70,6 +72,8 @@ body{
 }
 .breadcrumbs{
   &__inner{
+    overflow: hidden;
+    width: 1200px;
     padding: 35px 0;
     li{
       display: inline-block;

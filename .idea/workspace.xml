@@ -27,10 +27,16 @@
   <component name="ChangeListManager">
     <list default="true" id="76680715-e357-4906-b40e-32877ee2f9ab" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/css/style.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/css/style.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/new-items.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/new-items.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/profile.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/settings.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/settings.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/upload.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/upload.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/withdrawals.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/withdrawals.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/scss/_global.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/scss/_global.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/scss/_media.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/scss/_media.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/scss/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/scss/style.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +108,10 @@
       <workItem from="1600352604544" duration="15391000" />
       <workItem from="1600497691210" duration="21214000" />
       <workItem from="1600549706131" duration="21093000" />
-      <workItem from="1600631011895" duration="9465000" />
+      <workItem from="1600631011895" duration="26478000" />
+      <workItem from="1600728032621" duration="10930000" />
+      <workItem from="1600803450381" duration="225000" />
+      <workItem from="1600847920103" duration="6674000" />
     </task>
     <servers />
   </component>
